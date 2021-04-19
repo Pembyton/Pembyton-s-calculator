@@ -1,6 +1,7 @@
 """This is a calculator program
 this calculator can add, subtract, mutliply, divide, exponet two number together
 This calculator can also do some rounding"""
+print("This is Pemberton's Calculator")
 while True:
     addOrSub = input("add, subtract, mutliply, divide, exponent, or rounding?" )
     if addOrSub =="add": #add (The math sign is taken here)
